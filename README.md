@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hey there! I'm [Your Name]  
 
-<!--
-**David26v/David26v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Developer | Web & Application Enthusiast**  
+🚀 Building cool stuff with **React, Next.js, Python**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 About Me  
+🔹 Passionate about coding and creating innovative solutions  
+🔹 Skilled in **frontend & backend development**  
+🔹 Always exploring **new technologies** and best practices  
+🔹 Love solving **challenging problems**  
+
+🛠 **Tech Stack:**  
+- 🌐 Frontend: **React, Next.js**  
+- 🏗 Backend: **Python (Django, Flask), Node.js**  
+- 📊 Database: **PostgreSQL, MySQL**  
+- ☁ Cloud & DevOps: **Docker, AWS**  
+- 🔧 Tools: **Git, VS Code, Linux**  
+
+---
+
+### 🚀 What I’m Working On  
+🔹 Crafting amazing web applications  
+🔹 Experimenting with new tech & frameworks  
+🔹 Contributing to open-source projects  
+
+📌 **Fun Fact:** I turn coffee ☕ into code!  
+
+---
+
+### 📊 GitHub Stats  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
+
+---
+
+### 📫 Connect With Me  
+🌍 **Portfolio:** [yourwebsite.com](https://david-space-git-origin-master-lelouch45vs-projects.vercel.app/)  
+📧 **Email:** david.fajardo26v@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/david](https://linkedin.com/in/david-fajardo-313565228)  
+
+🚀 Let's build something awesome together! 😃  
