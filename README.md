@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm [Your Name]  
+# 👋 Hey there! I'm David R. Fajardo
 
 💻 **Software Developer | Web & Application Enthusiast**  
 🚀 Building cool stuff with **React, Next.js, Python**  
