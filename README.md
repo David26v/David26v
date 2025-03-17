@@ -30,12 +30,13 @@
 ---
 
 ### 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+
 
 ---
 
 ### 📫 Connect With Me  
-🌍 **Portfolio:** [yourwebsite.com](https://david-space-git-origin-master-lelouch45vs-projects.vercel.app/)  
+🌍 **Portfolio:** [https://david-space-git-origin-master-lelouch45vs-projects.vercel.app](https://david-space-git-origin-master-lelouch45vs-projects.vercel.app/)  
 📧 **Email:** david.fajardo26v@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/david](https://linkedin.com/in/david-fajardo-313565228)  
 
