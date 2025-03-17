@@ -30,8 +30,9 @@
 ---
 
 ### 📊 GitHub Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=David26v&show_icons=true&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=David26v&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David26v&layout=compact&theme=radical)  
 
 ---
 
