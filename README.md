@@ -37,7 +37,7 @@
 ---
 
 ### 📫 Connect With Me  
-🌍 **Portfolio:** [https://david-space-git-origin-master-lelouch45vs-projects.vercel.app](https://david-space-git-origin-master-lelouch45vs-projects.vercel.app/)  
+🌍 **Portfolio:** [David Fajardo Portfolio](https://davidfajardo-lxqwlz946-lelouch45vs-projects.vercel.app/)  
 📧 **Email:** david.fajardo26v@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/david](https://linkedin.com/in/david-fajardo-313565228)  
 
