@@ -24,6 +24,8 @@
 🔹 Crafting amazing web applications  
 🔹 Experimenting with new tech & frameworks  
 🔹 Contributing to open-source projects  
+🔹 creating a real life application 
+
 
 📌 **Fun Fact:** I turn coffee ☕ into code!  
 
