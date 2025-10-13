@@ -39,7 +39,7 @@
 ---
 
 ### 📫 Connect With Me  
-🌍 **Portfolio:** [David Fajardo Portfolio](https://davidfajardo-lxqwlz946-lelouch45vs-projects.vercel.app/)  
+🌍 **Portfolio:** [David Fajardo Portfolio](https://david-space--gules.vercel.app/)  
 📧 **Email:** david.fajardo26v@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/david](https://linkedin.com/in/david-fajardo-313565228)  
 
