@@ -43,11 +43,9 @@
 
 **☁ Cloud & DevOps:**  
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
@@ -79,6 +77,8 @@
 🔹 Crafting scalable web applications with cloud-native architecture  
 🔹 Experimenting with AI integrations & automation  
 🔹 Contributing to open-source projects  
+🔹 Building  a TurboRepoKit 
+ 
 
 📌 **Fun Fact:** I turn coffee ☕ into production-ready code!  
 
